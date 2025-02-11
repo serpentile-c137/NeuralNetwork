@@ -5,3 +5,7 @@ scikit-learn
 torchsummary
 matplotlib
 seaborn
+keras
+tensorflow
+# tensorflow-macos
+# tensorflow-metal
